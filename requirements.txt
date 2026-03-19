@@ -1,0 +1,7 @@
+streamlit
+streamlit-lottie
+xgboost
+scikit-learn
+pandas
+nltk
+pickle5

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large data & model files (use Git LFS or cloud storage instead)
+train.csv
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled Python
+inputHandling_cpython-*.pyc
+*.pyc
+
+# Test coverage
+.coverage
+.pytest_cache/
