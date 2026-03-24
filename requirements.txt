@@ -1,6 +1,8 @@
 streamlit
 streamlit-lottie
-xgboost
-scikit-learn
+xgboost==1.7.6
+scikit-learn==1.4.1
 pandas
+numpy
+joblib
 nltk
